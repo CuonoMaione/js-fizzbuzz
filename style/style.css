@@ -1,0 +1,47 @@
+body{
+    background-color: darkslategrey;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+main{
+    background-color: darkblue;
+    border-radius: 2rem;
+    padding: 2rem;
+    width: 700px;
+    margin: 5rem auto;
+    font-size: 2rem;
+    border: orangered 5px solid;
+    text-align: center;
+}
+
+h1{
+    color: orangered;
+}
+
+
+.red{
+    color: red;
+    font-size: 3rem;
+    
+}
+
+.lime{
+    color: lime;
+    font-size: 3rem;
+   
+}
+
+.yellow{
+color: yellow;
+font-size: 3rem;
+
+}
+
+li{
+    width: 10%;
+    margin: 0 auto;
+}
+
+.normal{
+color: white;
+}
