@@ -1,5 +1,11 @@
 
+const button = document.querySelector("button")
+
 const UlElement = document.querySelector("ul");
+
+button.addEventListener("click", function() {
+
+
 
 for (let i = 1 ; i < 101 ; i++) {
 
@@ -29,6 +35,9 @@ for (let i = 1 ; i < 101 ; i++) {
         liElement.innerHTML = "fizzbuzz"
     } ;
 }
+
+}
+)
 
 
 
